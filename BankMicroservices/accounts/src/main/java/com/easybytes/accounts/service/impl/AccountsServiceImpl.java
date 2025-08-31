@@ -103,4 +103,8 @@ public class AccountsServiceImpl implements IAccountsService {
         return true;
     }
 
+    public void getInfo(){
+        // just trying the github commit after adding this sample method
+    }
+
 }
